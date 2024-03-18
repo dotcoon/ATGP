@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Appalachian Trail Golden Packet
 toc: false
 ---
 
